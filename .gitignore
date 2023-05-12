@@ -1,0 +1,8 @@
+/target
+
+# redactors
+.idea/
+.vscode
+*.swp
+.vim
+
